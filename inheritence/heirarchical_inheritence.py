@@ -1,0 +1,1 @@
+# When Base class is inherited by multiple subclasses then it is called as a Heirarchical inheritance

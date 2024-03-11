@@ -1,0 +1,36 @@
+2024-03-09 12:55:11,390 - INFO - Printing 121
+2024-03-09 12:55:11,394 - ERROR - An Error message
+2024-03-09 12:55:11,395 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:11,395 - CRITICAL - Don't ignore me
+2024-03-09 12:55:11,796 - INFO - Printing 190
+2024-03-09 12:55:11,796 - ERROR - An Error message
+2024-03-09 12:55:11,796 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:11,796 - CRITICAL - Don't ignore me
+2024-03-09 12:55:12,197 - INFO - Printing 181
+2024-03-09 12:55:12,197 - ERROR - An Error message
+2024-03-09 12:55:12,197 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:12,197 - CRITICAL - Don't ignore me
+2024-03-09 12:55:12,598 - INFO - Printing 177
+2024-03-09 12:55:12,599 - ERROR - An Error message
+2024-03-09 12:55:12,599 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:12,599 - CRITICAL - Don't ignore me
+2024-03-09 12:55:13,000 - INFO - Printing 150
+2024-03-09 12:55:13,000 - ERROR - An Error message
+2024-03-09 12:55:13,000 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:13,000 - CRITICAL - Don't ignore me
+2024-03-09 12:55:13,401 - INFO - Printing 116
+2024-03-09 12:55:13,401 - ERROR - An Error message
+2024-03-09 12:55:13,401 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:13,401 - CRITICAL - Don't ignore me
+2024-03-09 12:55:13,802 - INFO - Printing 143
+2024-03-09 12:55:13,802 - ERROR - An Error message
+2024-03-09 12:55:13,802 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:13,802 - CRITICAL - Don't ignore me
+2024-03-09 12:55:14,203 - INFO - Printing 139
+2024-03-09 12:55:14,203 - ERROR - An Error message
+2024-03-09 12:55:14,203 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:14,203 - CRITICAL - Don't ignore me
+2024-03-09 12:55:14,604 - INFO - Printing 156
+2024-03-09 12:55:14,604 - ERROR - An Error message
+2024-03-09 12:55:14,604 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:14,604 - CRITICAL - Don't ignore me

@@ -1,0 +1,17 @@
+lst = [12, 15, 13, 23,13, 22, 16, 17]
+lst.append(22)
+print(lst)
+lst.remove(13)
+lst.remove(23)
+print(lst)
+lst.pop()
+print(lst)
+lst.pop(3) # removes third item
+print(lst)
+lst.insert(3, 258)
+print(lst)
+print(lst.count(13))
+idx = lst.index(16)
+print(idx)
+idx = lst.index(50)
+print(idx)

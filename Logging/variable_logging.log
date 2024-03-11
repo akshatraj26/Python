@@ -1,0 +1,20 @@
+2024-03-06 18:43:47,126 INFO The values of num and den are 21 and 3
+2024-03-06 18:43:47,127 INFO division successful with result: 7.0
+2024-03-06 18:43:47,127 INFO The values of num and den are 32 and 2
+2024-03-06 18:43:47,127 INFO division successful with result: 16.0
+2024-03-06 18:43:47,127 INFO The values of num and den are 60 and 0
+2024-03-06 18:43:47,127 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "C:\Users\AkshatRaj\Python\Logging\logging_variables.py", line 11, in <module>
+    val = num / den
+          ~~~~^~~~~
+ZeroDivisionError: division by zero
+2024-03-06 18:43:47,130 INFO The values of num and den are 32 and 16
+2024-03-06 18:43:47,130 INFO division successful with result: 2.0
+2024-03-06 18:43:47,130 INFO The values of num and den are 14 and 0
+2024-03-06 18:43:47,130 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "C:\Users\AkshatRaj\Python\Logging\logging_variables.py", line 11, in <module>
+    val = num / den
+          ~~~~^~~~~
+ZeroDivisionError: division by zero

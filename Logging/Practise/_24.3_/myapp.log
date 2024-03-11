@@ -1,0 +1,5 @@
+2024-03-07 19:26:17,409 - __main__ - DEBUG - A DEBUG message
+2024-03-07 19:26:17,409 - __main__ - INFO - A info message
+2024-03-07 19:26:17,409 - __main__ - ERROR - An Error message
+2024-03-07 19:26:17,409 - __main__ - WARNING - A warning message
+2024-03-07 19:26:17,409 - __main__ - CRITICAL - A message of critical severity

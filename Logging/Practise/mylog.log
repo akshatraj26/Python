@@ -1,0 +1,10 @@
+2024-03-07 18:26:51,810 - Correct data: Akshat 23 500000.0
+2024-03-07 18:27:05,376 - Correct data: Amol 30 59999999.0
+2024-03-07 18:27:44,700 - ValueError
+Traceback (most recent call last):
+  File "C:\Users\AkshatRaj\Python\Let Us Python Yashwant Kanetkar\Logging\Practise\_24.1_.py", line 18, in <module>
+    salary = float(data[2])
+             ^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '70000.6i'
+2024-03-07 18:28:03,260 - Correct data: Rishikesh 23 55656.3
+2024-03-07 18:28:16,476 - Correct data: Saket 45 456678.4

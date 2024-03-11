@@ -1,0 +1,5 @@
+2024-03-09 12:55:31,085 - INFO - Printing 148
+2024-03-09 12:55:31,087 - ERROR - An Error message
+2024-03-09 12:55:31,087 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:31,087 - CRITICAL - Don't ignore me
+2024-03-09 12:55:31,164 - WARNING - Stopped by the user

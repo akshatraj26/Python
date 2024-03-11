@@ -1,0 +1,4 @@
+2024-03-06 18:36:22,136 INFO An information
+2024-03-06 18:36:22,137 WARNING A warning message
+2024-03-06 18:36:22,137 ERROR An error message
+2024-03-06 18:36:22,137 CRITICAL A message of critical severity

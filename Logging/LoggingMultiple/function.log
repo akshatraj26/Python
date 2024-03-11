@@ -1,0 +1,11 @@
+function INFO Logs for module function
+function INFO division result: 7.0
+function INFO division result: 1.5
+function ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "C:\Users\AkshatRaj\Python\Let Us Python Yashwant Kanetkar\Logging\LoggingMultiple\function.py", line 21, in division
+    val = num / den
+          ~~~~^~~~~
+ZeroDivisionError: division by zero
+function INFO division result: 5.333333333333333
+function INFO division result: 2.0

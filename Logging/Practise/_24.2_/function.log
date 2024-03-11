@@ -1,0 +1,10 @@
+function INFO Logs for module function
+function INFO Result: 0 0.0 0 0
+function INFO Result: 1 1.0 1 1
+function INFO Result: 2 1.4142 4 8
+function INFO Result: 3 1.7321 9 27
+function INFO Result: 4 2.0 16 64
+function INFO Result: 5 2.2361 25 125
+function INFO Result: 6 2.4495 36 216
+function INFO Result: 7 2.6458 49 343
+function INFO Result: 8 2.8284 64 512

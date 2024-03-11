@@ -1,0 +1,40 @@
+2024-03-09 12:55:19,018 - INFO - Printing 172
+2024-03-09 12:55:19,020 - ERROR - An Error message
+2024-03-09 12:55:19,020 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:19,021 - CRITICAL - Don't ignore me
+2024-03-09 12:55:19,422 - INFO - Printing 108
+2024-03-09 12:55:19,422 - ERROR - An Error message
+2024-03-09 12:55:19,422 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:19,422 - CRITICAL - Don't ignore me
+2024-03-09 12:55:19,822 - INFO - Printing 182
+2024-03-09 12:55:19,822 - ERROR - An Error message
+2024-03-09 12:55:19,822 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:19,822 - CRITICAL - Don't ignore me
+2024-03-09 12:55:20,223 - INFO - Printing 134
+2024-03-09 12:55:20,233 - ERROR - An Error message
+2024-03-09 12:55:20,233 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:20,233 - CRITICAL - Don't ignore me
+2024-03-09 12:55:20,634 - INFO - Printing 107
+2024-03-09 12:55:20,634 - ERROR - An Error message
+2024-03-09 12:55:20,634 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:20,634 - CRITICAL - Don't ignore me
+2024-03-09 12:55:21,035 - INFO - Printing 160
+2024-03-09 12:55:21,035 - ERROR - An Error message
+2024-03-09 12:55:21,035 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:21,035 - CRITICAL - Don't ignore me
+2024-03-09 12:55:21,435 - INFO - Printing 161
+2024-03-09 12:55:21,435 - ERROR - An Error message
+2024-03-09 12:55:21,435 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:21,435 - CRITICAL - Don't ignore me
+2024-03-09 12:55:21,836 - INFO - Printing 120
+2024-03-09 12:55:21,836 - ERROR - An Error message
+2024-03-09 12:55:21,836 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:21,836 - CRITICAL - Don't ignore me
+2024-03-09 12:55:22,237 - INFO - Printing 191
+2024-03-09 12:55:22,237 - ERROR - An Error message
+2024-03-09 12:55:22,237 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:22,237 - CRITICAL - Don't ignore me
+2024-03-09 12:55:22,638 - INFO - Printing 152
+2024-03-09 12:55:22,638 - ERROR - An Error message
+2024-03-09 12:55:22,638 - WARNING - If use hit ctrl + c then I will stop
+2024-03-09 12:55:22,638 - CRITICAL - Don't ignore me
