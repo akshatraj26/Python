@@ -1,0 +1,5 @@
+Num:- 5 Cube:-  125 
+Num:- 15 Cube:-  3375 
+Num:- 4 Cube:-  64 
+Num:- 3 Cube:-  27 
+Num:- 10 Cube:-  1000 
